@@ -10,10 +10,6 @@ Meu site pessoal é https://andrematheus.net.br. Além do Github também tenho u
 
 Alguns de meus projetos:
 
-[Kobweb](https://github.com/andrematheus/Kobweb) é um framework web escrito em Kotlin.
-
 [Jinjer](https://github.com/andrematheus/jinjer) é uma ferramenta de linha de comando para gerar arquivos usando templates Jinja.
-
-[Kliche](https://github.com/andrematheus/Kliche) é um CMS escrito em Kotlin.
 
 Tenho alguns repositórios que contêm soluções para problemas do site [programming praxis](https://programmingpraxis.com): em [Racket](https://github.com/andrematheus/programming-praxis-racket), [Swift](https://github.com/andrematheus/programming-praxis-swift), [Kotlin](https://github.com/andrematheus/programming-praxis-kotlin), [Go](https://github.com/andrematheus/programming-praxis-golang), [C++](https://github.com/andrematheus/programming-praxis-cpp), [Rust](https://github.com/andrematheus/programming-praxis-rust), [OCaml](https://github.com/andrematheus/programming-praxis-ocaml), [Elixir](https://github.com/andrematheus/programming-praxis-elixir) e [Java](https://github.com/andrematheus/programming-praxis-java).
